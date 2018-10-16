@@ -1,6 +1,8 @@
 # A Dream within a Dream
 ## By Edgar Allan Poe
 
+<br>
+
 Take this kiss upon the brow!
 
 And, in parting from you now,
@@ -22,8 +24,8 @@ Is it therefore the less gone?
 All that we see or seem
 
 Is but a dream within a dream.
-
-
+  
+<br>
 
 I stand amid the roar
 
@@ -51,6 +53,6 @@ Is all that we see or seem
 
 But a dream within a dream?
 
-
+<br>
 
 **Source**: :link:[http://www.public-domain-poetry.com/edgar-allan-poe/dream-within-a-dream-1751](http://www.public-domain-poetry.com/edgar-allan-poe/dream-within-a-dream-1751)
